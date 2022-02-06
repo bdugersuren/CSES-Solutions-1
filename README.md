@@ -6,7 +6,7 @@ Solutions and Editorials to problems of [CSES](https://cses.fi/problemset/).
 <details><summary>Introductory Problems</summary>
 <p>
 
- - [x] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
+ - [x] - [Weird Algorithm](https://cses.fi/problemset/task/1068) [sec](https://cses.fi/problemset/task/1068)
  - [x] - [Missing Number](https://cses.fi/problemset/task/1083)
  - [x] - [Repetitions](https://cses.fi/problemset/task/1069)
  - [x] - [Increasing Array](https://cses.fi/problemset/task/1094)
